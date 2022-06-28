@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi I´m Yazmín 👋
+
+[![Linkedin Badge](https://img.shields.io/badge/-jlim-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlim/)]([https://www.linkedin.com/in/yagoly/])
+
+Welcome to my profile! I'm a Physic. I am current python coder and Data Analytics. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/yagoly/)!
 
 <!--
 **Yagoly/Yagoly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
