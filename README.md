@@ -40,9 +40,7 @@ class DataScientist:
 
 ## 📈 GitHub Stats
 
-<a href="https://github.com/yagoly/yagoly">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yagoly&show_icons=true&line_height=27&count_private=true&title_color=FF66C4&text_color=8a919a&icon_color=FF66C4&bg_color=22272e" alt="Yazmín's GitHub Stats" style="padding:10px"/></a>
-
+![Haany's github stats](https://github-readme-stats.vercel.app/api?username=MarikIshtar007&show_icons=true&hide=[%22issues%22])
 ---
 
        
