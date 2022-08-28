@@ -9,34 +9,32 @@ Welcome to my profile! I'm a Physic. I am current python coder and Data Analytic
 # -*- coding: utf-8 -*-
 
 
-class BackendDeveloper:
+class DataScientist:
     def __init__(self):
-        self.name = "Gabriella Alexandra Martinez Viloria"
-        self.main_profession = "Software Engineer"
-        self.education = "Petroleum Engineer. 2005 - 2012"
-        self.main_stack = "Back end"
-        self.backend_stack = {
-            "🔧 Backend": ["Java", "Spring", "Python", "Django Rest Framework"],
-            "🧵 Tools": ["Linux", "PostgreSQL", "Docker", "docker-compose", "Debugger", "GIT", "Postman"],
-            "🚀 Training": ["RESTful APIs", "Web development", "Web services", "Microservices", "DevOps"],
-        }
-        self.devops_stack = {
-            "🧵 Tools": ["Github Actions", "Gitlab CI/CD", "NGINX", "Heroku"],
+        self.name = "Yazmín González Leyva"
+        self.main_profession = "Data Scientist"
+        self.education = "Physics. 2015-2022"
+        self.main_stack = "Data analytics"
+        self.datascientist_stack = {
+            "🔧 Backend": ["Python", "SQL", "R"],
+            "🧵 Tools": ["Linux", "PostgreSQL", "Docker", "PowerBI", "Tableau", "GIT", "Latex", "Jupyter", "Spaider", "Mongo DB"],
+            "🚀 Training": ["Data Analytics", "Data Science", "Machine Learning"]
         }
         self.other_knowledge = {
-            "🎨 Frontend": ["ReactJS", "HTML", "CSS", "Javascript"],
-            "🔧 Backend": ["NodeJS", "Express"],
+            "🎨 Data Analytics and Data Science": ["Pandas", "Numpy", "Matplotlib", "Seaborn", "EDA"],
+            "🔧 Machine Learning": ["Sckit-Learn"],
             "💾 Databases": ["MySQL"],
-            "🧵 Tools": ["SCRUM", "Dialogflow", "Youtrack", "Jira", "AWS", "Redis"],
+            "🧵 Tools": ["SCRUM", "Trello],
         }
-        self.tech_communities = ["HackademyMX", "Hack Women"]
-        self.tech_contribution = ["Backend mentor"]
+        self.tech_communities = ["Technovation"]
+        self.tech_contribution = ["Mentor"]
 
     def spend_free_time(self):
-        self.courses_in_progress = ["Building projects"]
-        self.next_course = "CS50's Introduction to Computer Science"
-        self.hobbies = ["Leer libros de ciencia ficción", "cocinar panes y dulces"]
-        self.lost_hobbies = ["🎮 Jugar videojuegos"]
+        self.courses_in_progress = ["Programación Orientada a Objetos"]
+        self.bootcamps = ["BEDU", "Dev.f", "Coderhouse"]
+        self.next_course = ["Data analytics con excel", "Business Intelligence"]
+        self.hobbies = ["Leer libros de divulgación de la ciencia", "Senderismo", "Practicar Yoga", "Hacer ejercicio", "Entrenar perros", "Hacer manualidades]
+        self.lost_hobbies = ["Montañismo", "Viajar"]
 
 ```
 
@@ -49,13 +47,6 @@ class BackendDeveloper:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=martinezga&label=Profile%20views&color=0e75b6&style=flat" alt="martinezga" /> </p>
 
-## ☕️ Buy me a coffee
-[<img src="https://img.shields.io/badge/%20🌎️%20Stripe%20(USD)-buy-ff69b4?style=social" height="25em" align="center" alt="Buy me a coffee on Stripe" title="Buy me a coffee on Stripe" style="padding:10px"/>](https://buy.stripe.com/eVa9Dq6Ry9Wr7zqdQQ)  
-
-[<img src="https://img.shields.io/badge/%20🇧🇷️%20PIX%20(BRL)-buy-ff69b4?style=social" height="25em" align="center" alt="Buy me a coffee with PIX" title="Buy me a coffee with PIX" style="padding:10px"/>](https://iti.itau/transacoes?t=link&h=f73e4e38-9341-41c1-818a-1fe834dc721f)  
-
-[<img src="https://img.shields.io/badge/%20🇦🇷️%20CafecitoApp%20(ARS)-buy-ff69b4?style=social" height="25em" align="center" alt="Buy me a coffee on CafecitoApp" title="Buy me a coffee on CafecitoApp" style="padding:10px"/>](https://cafecito.app/martinezga)  
-
 ## 📈 GitHub Stats
 
 <a href="https://github.com/martinezga/martinezga">
@@ -64,7 +55,7 @@ class BackendDeveloper:
 ---
 
        
-⌨️ con ❤️ por [Gabriella Martínez](https://github.com/martinezga) 😊
+⌨️ con ❤️ por [Yazmín González Leyva](https://github.com/yagoly) 😊
 
 <!--
 **Yagoly/Yagoly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
