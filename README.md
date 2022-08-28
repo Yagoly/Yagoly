@@ -24,7 +24,7 @@ class DataScientist:
             "🎨 Data Analytics and Data Science": ["Pandas", "Numpy", "Matplotlib", "Seaborn", "EDA"],
             "🔧 Machine Learning": ["Sckit-Learn"],
             "💾 Databases": ["MySQL"],
-            "🧵 Tools": ["SCRUM", "Trello],
+            "🧵 Tools": ["SCRUM", "Trello"],
         }
         self.tech_communities = ["Technovation"]
         self.tech_contribution = ["Mentor"]
