@@ -36,10 +36,7 @@ class DataScientist:
         self.hobbies = ["Leer libros de divulgación de la ciencia", "Senderismo", "Practicar Yoga", "Hacer ejercicio", "Entrenar perros", "Hacer manualidades"]
         self.lost_hobbies = ["Montañismo", "Viajar"]
 
-```
-
-## 🐱‍💻 Social Networks
-[<img src="https://img.shields.io/badge/Linkedin-follow-ff69b4?style=social&logo=linkedin" height="25em" align="center" alt="Follow Gabriella on LinkedIn" title="Follow Gabriella on LinkedIn" style="padding:10px"/>](https://www.linkedin.com/in/yagoly)                     
+```                   
 
 ## 📈 GitHub Stats
 
@@ -49,7 +46,7 @@ class DataScientist:
 ---
 
        
-⌨️ con ❤️ por [Yazmín González Leyva](https://github.com/yagoly) 😊
+⌨️ con ❤️ [Yazmín González Leyva](https://github.com/yagoly) 😊
 
 <!--
 **Yagoly/Yagoly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
