@@ -40,7 +40,7 @@ class DataScientist:
 
 ## 📈 GitHub Stats
 
-![Haany's github stats](https://github-readme-stats.vercel.app/api?username=MarikIshtar007&show_icons=true&hide=[%22issues%22])
+![Haany's github stats](https://github-readme-stats.vercel.app/api?username=yagoly&show_icons=true&hide=[%22issues%22])
 ---
 
        
