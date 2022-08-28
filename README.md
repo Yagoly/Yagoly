@@ -4,7 +4,6 @@
 
 Welcome to my profile! I'm a Physic. I am current python coder and Data Analytics. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/yagoly/)!
 
-![martinezga banner](https://github.com/martinezga/martinezga/blob/master/fractal-github-banner.png)
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
